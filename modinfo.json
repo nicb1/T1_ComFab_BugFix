@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "context": "server",
+    "identifier": "com.pa.nocomfabwall",
+    "display_name": "Combat Fab Wall Fix",
+    "build": "73939",
+    "date": "2015/01/02",
+    "description": "Fixes a bug where combat fabs can build walls in t1",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "author": "Nicb1",
+    "version": "V 1",
+    "signature": "(not yet implemented)",
+    "forum": "",
+    "icon": "",
+    "priority": 100,
+    "dependencies": [
+        
+    ]
+}
