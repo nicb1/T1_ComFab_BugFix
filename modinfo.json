@@ -11,10 +11,10 @@
         "server-mod"
     ],
     "author": "Nicb1",
-    "version": "V 1",
+    "version": "V 1.01",
     "signature": "(not yet implemented)",
     "forum": "",
-    "icon": "",
+    "icon": "http://i1060.photobucket.com/albums/t459/emraldis/notocombatfabs.png",
     "priority": 100,
     "dependencies": [
         
